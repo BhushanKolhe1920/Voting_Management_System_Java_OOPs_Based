@@ -40,8 +40,11 @@ https://www.eclipse.org/downloads/
 
 2. Install Eclipse and Click on New --> Craete Project
 3. Now go to src folder of created project (on left side in package explorer)
-4. Right click on it -- > New --> Class  --> Give some name to class .
-5. Right your code --> Run it.
+
+<img src="">
+
+5. Right click on it -- > New --> Class  --> Give some name to class .
+6. Right your code --> Run it.
 
 
 ### Steps to execute Voting Management Java program in Eclipse IDE :
