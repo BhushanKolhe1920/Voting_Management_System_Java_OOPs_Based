@@ -17,7 +17,44 @@ Voting management can be classfied into three main levels :
 After this three levels we will need to find total votes casted , number of machine used , area from which maximum voting is happened.
 The particular java program will work on this main three levels as well as it will calculate above parameters.
 
-Classes can be categorized as :   
+### Classes can be categorized as :   
 1. Voter Class
-2. Machine or Room Class
+2. Machine Class
 3. Main class
+
+### Objects with data are : 
+1. Voter object - containing voterId,voterName,voterArea,isVoted,boothId
+2. Machine object - containing machineId, roomNumber, personInCharge;
+
+### Methods are :
+1. Main Method - public static void main(String[] bk)   for object initializations and method calling.
+2. Method 1 : howManyVoteCasted_Total_Casted_Vote(voter,machine.getMachineId());   To find total numbers of casted votes.
+3. Method 2 : areaWiseCastedVoteAnalysis(voter);  To find area wise contribuition in votes.
+
+### Steps to create java project in Eclipse IDE : - 
+
+1. Download Eclipse IDE from    (Version used : 2020-12)
+```
+https://www.eclipse.org/downloads/
+```
+
+2. Install Eclipse and Click on New --> Craete Project
+3. Now go to src folder of created project (on left side in package explorer)
+4. Right click on it -- > New --> Class  --> Give some name to class .
+5. Right your code --> Run it.
+
+
+### Steps to execute Voting Management Java program in Eclipse IDE :
+
+1. Download all java codes or folder in zip format.
+2. Extract the folder and open Eclipse IDE.
+3. Click on File -- > Open project and select downloaded and extracted folder location.
+4. Run the project.
+
+
+
+## Contact Information : 
+
+Bhushan Bhagwat Kolhe
+Don Bosco Institute Of Technology, Mumbai
+bhushank1920@gmail.com
