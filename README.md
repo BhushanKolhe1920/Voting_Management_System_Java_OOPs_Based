@@ -65,6 +65,6 @@ https://www.eclipse.org/downloads/
 
 ## Contact Information : 
 
-Bhushan Bhagwat Kolhe
-Don Bosco Institute Of Technology, Mumbai
-bhushank1920@gmail.com
+- Bhushan Bhagwat Kolhe
+- Don Bosco Institute Of Technology, Mumbai
+- bhushank1920@gmail.com
